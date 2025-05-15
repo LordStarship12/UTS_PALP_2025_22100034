@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607824099473",
+    "project_id": "palpnote",
+    "storage_bucket": "palpnote.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607824099473:android:40115bf7db3b57daea6730",
+        "android_client_info": {
+          "package_name": "com.example.flutter_uts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8aSXgLkH_PVoF0-lzrzzxDlA8BIVlIuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
